@@ -22,12 +22,12 @@
     "require": {
         "php": "^8.0",
         "ext-json": "*",
-        "statamic/cms": "^4.1"
+        "statamic/cms": "^5.0"
     },
     "require-dev": {
-        "nunomaduro/larastan": "^2.6",
-        "orchestra/testbench": "^7.32 | ^8.12",
-        "phpunit/phpunit": "^9.5"
+        "nunomaduro/larastan": "^2.9.7",
+        "orchestral/testbench": "^8.23.2 | ^9.12",
+        "phpunit/phpunit": "^11.2"
     },
     "config": {
         "process-timeout": 0,
